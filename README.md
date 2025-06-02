@@ -46,7 +46,5 @@ Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes dep
 
 2. Accede a tu navegador en la dirección que se muestra en la consola (por defecto, `http://127.0.0.1:7860`).
 
-```markdown
 ![Ejemplo de monstruo generado](img/example.png)
-```
 
